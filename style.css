@@ -1,0 +1,21 @@
+.searchButtons{
+	margin: 5px 5px;
+}
+
+.searchButtons:hover{
+	background-color: teal;
+}
+
+.searchButtons:visited{
+	background-color: teal;
+}
+
+
+
+.navbar-left{
+	margin: 16px 5px;
+}
+
+.gif{
+	margin: 0px;
+}
